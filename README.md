@@ -3,34 +3,26 @@ My personal backend development learning log
 
 ---
 
-## 🗂️ Segments
-
-### 🔷 1. Learning Plan
-- [x] Learn how the internet works
-- [x] Install Node.js LTS
-- [ ] Setup local server
-- [ ] Learn Express.js basics
-
-### 🔨 2. To-Do
+### 1. To-Do's
 - [ ] Watch videos on HTTP request/response
 - [ ] Create a REST API for practice
 - [ ] Read about `ngrok`
-
-### ✅ 3. Completed Tasks
-- ✔️ Checked public/private IP
-- ✔️ Installed VS Code + extensions
-- ✔️ Submitted task-1 of internship
-
----
-
-## 📚 Resources
-- [How Internet Works – Video](https://www.youtube.com/watch?v=x3c1ih2NJEg)
-- [Node.js Official](https://nodejs.org)
-- [MDN HTTP Basics](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [ ] create repo on backend journey
+- [ ] Understand client-server architecture
+- [ ] Learn about IP addresses, DNS, and HTTP
+- [ ] Set up your Node.js development environment
+- [ ] Create your first server
+- [ ] Check your network setup (public vs private IP)
 
 ---
 
-## 🤔 Questions for Mentor
-- What's the best way to structure routes in Express?
-- Why do we need to hide `.env` files?
-- Do I need to use `ngrok` always in local dev?
+### 2. Learning Diary
+1.(.md) - markdown(Markdown is a lightweight markup language used to write formatted text using plain text. Like:# for headings *bold** for bold italic* for italic for lists and you can even add code blocks, images, and links!)
+
+
+---
+
+### 3. Daily que-ans
+- [ ]
+- [ ]
+- [ ] 
