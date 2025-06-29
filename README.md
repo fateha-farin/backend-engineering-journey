@@ -3,8 +3,19 @@ My personal backend development learning log
 
 ---
 
-## week 2: 
+## week 2:JavaScript Fundamentals
+###  Modern JavaScript for backend development
+ - [ ]  Variables & Data Types
+ - [ ] Operators and conditional statements
+ - [ ] loops and strings
+ - [ ] arrays
+ - [ ] functions and methods
+ - [ ] DOM- document object model
+ - [ ] events in js
+
+
 ## Week 1: Foundation
+###  Understanding how the internet works
 - [ ] Watch videos on HTTP request/response
 - [ ] Create a REST API for practice
 - [ ] Read about `ngrok`
